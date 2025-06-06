@@ -2,11 +2,17 @@
 
 
 **Υλικά:**
+
 ●	1 Arduino Uno R3
+
 ●	28 LED (14 σε πράσινο και 14 σε κόκκινο χρώμα)
+
 ●	2 Buzzer
+
 ●	2 I2C LCD Display Modules
+
 ●	4 Breadboards
+
 ●	Καλώδια
 
 
