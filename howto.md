@@ -41,10 +41,15 @@
 **Οθόνη**
 
 ●	Συνδέουμε την οθόνη στο Arduino μας, η συνδεσμολογία είναι ως εξής: 
-  I2C  | LCD   Display Module	Arduino UNO R3
+  
+  I2C    | LCD   Display Module	Arduino UNO R3
+  
   VCC	 | 5V
+  
   GND	 | GND
+  
   SDA	 | A4
+  
   SCL	 | A5
 
 ●	Ανεβάζουμε στο Arduino το αρχείο κώδικα green_red_lcd.ino, φροντίζοντας να αλλάξουμε την τιμή του RGBaddr ανάλογα με την έκδοση υλικού μας.
