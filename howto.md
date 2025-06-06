@@ -54,9 +54,10 @@
 
 ●	Συνδέουμε την οθόνη στο Arduino μας, η συνδεσμολογία είναι ως εξής: 
 
+
 Display Module  |  Arduino UNO R3
-     	
-	   I2C   |  LCD   
+
+	I2C      |  LCD   
   
    	VCC	 |  5V
   
