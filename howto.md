@@ -56,8 +56,6 @@
 
 
 Display Module  |  Arduino UNO R3
-
- 	I2C      |  LCD   
   
    	VCC	 |  5V
   
